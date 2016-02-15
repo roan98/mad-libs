@@ -1,0 +1,38 @@
+body{
+background-color: rgba(70,70,70,1);
+text-align: center;
+}
+
+div.content{
+padding-left: 10px;
+background-color: white; 
+text-align: left;
+}
+
+
+h1{
+	color: white;
+	text-align: left;
+}
+
+ul li{
+font-family: verdana;
+color: white;
+ display:inline;
+margin-left: 20px; 
+text-decoration: none;
+}
+
+ul{
+padding-top: 10px;
+padding-bottom: 10px;
+background-color: darkred; 
+}
+
+div.container{
+	display: inline-block;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+
+}

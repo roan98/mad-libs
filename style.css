@@ -1,0 +1,64 @@
+body{
+background-color: rgba(70,70,70,1);
+text-align: center;
+}
+
+div.content{
+width: 960px; 
+margin-right: auto;
+margin-left: auto;
+background-color: white; 
+text-align: left;
+}
+
+
+h1{
+	color: white;
+	text-align: left;
+}
+
+ul li{
+font-family: verdana;
+color: white;
+ display:inline;
+margin-left: 20px; 
+text-decoration: none;
+}
+
+ul{
+padding-top: 10px;
+padding-bottom: 10px;
+background-color: darkred; 
+}
+
+p.submit{
+text-align: center; 
+}
+
+form{
+color:black;
+font-family: verdana;
+}
+
+p{
+color: black;
+font-family: verdana; 
+}
+
+div{
+	display: inline-block;
+	width: 960px;
+}
+
+form p
+{
+  clear: left;
+}
+
+
+label{
+ margin-left: 10px;
+cursor: default; 
+width: 500px; 
+float: left;
+}
